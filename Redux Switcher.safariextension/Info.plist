@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Sam Starling</string>
 	<key>CFBundleDisplayName</key>
-	<string>Redux Switched</string>
+	<string>Redux Switcher</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.samstarling.reduxswitcher</string>
 	<key>CFBundleInfoDictionaryVersion</key>
